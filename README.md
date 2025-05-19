@@ -19,8 +19,7 @@ It simulates a point-of-sale billing system for a coffee shop.
 - Windows Forms
 
 ## 📸 Screenshot
-(see below)
-
+![UI Screenshot](https://github.com/mechanicb0y/CoffeeShop-App/blob/master/Screenshot%202025-05-19%20172756.png?raw=true)
 ## 👤 Author
 Al-Shandawi  
 [GitHub Profile](https://github.com/mechanicb0y)
