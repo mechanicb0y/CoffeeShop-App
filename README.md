@@ -22,7 +22,7 @@ It simulates a point-of-sale billing system for a coffee shop.
 (see below)
 
 ## 👤 Author
-Alshandawi  
+Al-Shandawi  
 [GitHub Profile](https://github.com/mechanicb0y)
 
 
